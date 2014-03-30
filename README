@@ -1,0 +1,3 @@
+This is a module allowing for nice, structured argument passing in Perl 5. If you like name-based argument passing, but want a bit more sophistication as to how it works, this should help you make your larger coding projects more structured.
+
+Use perldoc on the module for detailed instructions on how it works. If you're on Unix, "perldoc Argpass.pm" should do what you want.
